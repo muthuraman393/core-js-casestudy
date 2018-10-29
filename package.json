@@ -1,0 +1,33 @@
+{
+  "name": "corejs_casestudy",
+  "version": "1.0.0",
+  "description": "core jabvascript case studies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muthuraman393/core-js-casestudy.git"
+  },
+  "keywords": [
+    "core",
+    "js",
+    "case",
+    "studies",
+    "examples"
+  ],
+  "author": "MUTHURAMAN",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muthuraman393/core-js-casestudy/issues"
+  },
+  "homepage": "https://github.com/muthuraman393/core-js-casestudy#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "2.8.1",
+    "express": "^4.16.4",
+    "http-server": "^0.11.1",
+    "mongoose": "4.13.6"
+  }
+}
